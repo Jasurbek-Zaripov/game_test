@@ -1,0 +1,67 @@
+[
+  [
+    "Jasur",
+    "your: A | B | false",
+    "your: A | A | true",
+    "your: A | D | false",
+    "your: A | A | true",
+    "your: A | B | false",
+    "your: A | C | false",
+    "your: A | B | false",
+    "your: A | D | false",
+    "your: A | B | false",
+    "your: A | A | true"
+  ],
+  [
+    "bobur",
+    "your: A | B | false",
+    "your: A | A | true",
+    "your: A | D | false",
+    "your: A | A | true",
+    "your: A | B | false",
+    "your: A | C | false",
+    "your: A | B | false",
+    "your: A | D | false",
+    "your: A | B | false",
+    "your: A | A | true"
+  ],
+  [
+    "bobur",
+    "your: A | D | false",
+    "your: A | B | false",
+    "your: A | B | false",
+    "your: A | A | true",
+    "your: A | A | true",
+    "your: A | A | true",
+    "your: A | D | false",
+    "your: A | A | true",
+    "your: A | D | false",
+    "your: A | B | false"
+  ],
+  [
+    "bobur",
+    "your: A | D | false",
+    "your: A | B | false",
+    "your: A | A | true",
+    "your: A | B | false",
+    "your: A | C | false",
+    "your: A | B | false",
+    "your: A | B | false",
+    "your: A | A | true",
+    "your: A | D | false",
+    "your: A | A | true"
+  ],
+  [
+    "Jasur",
+    "your: A | D | false",
+    "your: B | B | true",
+    "your: C | C | true",
+    "your: A | B | false",
+    "your: A | A | true",
+    "your: A | A | true",
+    "your: A | B | false",
+    "your: A | D | false",
+    "your: A | A | true",
+    "your: A | B | false"
+  ]
+]
